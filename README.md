@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning, data science, nanomaterials
 - 🌱 I’m currently working as a data scientist
 - 💞️ I’m looking to collaborate on the application of machine learning to various fields to make our lives better. 
-- 📫 How to reach me: mchen041@ucr.edu or mingguang.chen@kaust.edu.sa
+- 📫 How to reach me: mchen041@ucr.edu
 
 <!---
 pacificknight/pacificknight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
