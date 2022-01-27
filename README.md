@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pacificknight
 - 👀 I’m interested in machine learning, data science, nanomaterials
-- 🌱 I’m currently working as a data scientist
+- 🌱 I’m currently working as a senior data scientist
 - 💞️ I’m looking to collaborate on the application of machine learning to various fields to make our lives better. 
 - 📫 How to reach me: mchen041@ucr.edu
 
