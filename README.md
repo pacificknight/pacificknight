@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pacificknight
-- 👀 I’m interested in machine learning, data science, nanomaterials
+- 👀 I’m interested in machine learning, data science, and nanoscience
 - 🌱 I’m currently working as a senior data scientist
 - 💞️ I’m looking to collaborate on the application of machine learning to various fields to make our lives better. 
-- 📫 How to reach me: mchen041@ucr.edu
+- 📫 How to reach me: harveyhit@gmail.com
 
 <!---
 pacificknight/pacificknight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
